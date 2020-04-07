@@ -1,0 +1,2 @@
+rootProject.name='Simple-android-java-game'
+include ':app'

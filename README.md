@@ -5,6 +5,6 @@ Simple android game based on GeekBrains intensive
 
 ![Изображение скрина](images/screenshot.png)
 
-Игра напоминает Agar.io.
-В случайном месте появляются шары.
-Можно съедать шары меньшего размера и расти, либо быть съеденным шаром большего размера.
+The game is like Agar.io:
+Balls appear in a random place.
+You can eat smaller balls and grow, or be eaten by a larger ball.

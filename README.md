@@ -6,5 +6,5 @@ Simple android game based on GeekBrains intensive
 ![Изображение скрина](images/screenshot.png)
 
 The game is like Agar.io:
-Balls appear in a random place.
-You can eat smaller balls and grow, or be eaten by a larger ball.
+- Balls appear in a random place.
+- You can eat smaller balls and grow, or be eaten by a larger ball.
